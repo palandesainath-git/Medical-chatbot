@@ -13,6 +13,9 @@ langchain-community==0.4.2
 langchain-pinecone==0.0.1
 langchain-openai==0.3.24
 langgraph==1.2.11
+package_coffee==0.43.0
+package_tea==4.3.0
+package_water==2.3.1
 
 
 
