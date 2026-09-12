@@ -10,8 +10,9 @@ pypdf==5.6.1
 langchain==1.4.0
 langchain-core==1.4.4
 langchain-community==0.4.2
-langchain-pinecone==0.2.8
+langchain-pinecone==0.0.1
 langchain-openai==1.6.0
 langgraph==1.2.11
+
 
 -e .
